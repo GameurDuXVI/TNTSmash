@@ -1,0 +1,5 @@
+name: TNTSmash
+version: 1.0
+author: GameurDuXVI
+main: fr.gameurduxvi.tntsmash.Main
+softdepend: [MeneliaAPI]
